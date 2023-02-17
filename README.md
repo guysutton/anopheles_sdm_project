@@ -1,1 +1,1 @@
-# anopheles_sdm_project
+# Anopheles SDM project

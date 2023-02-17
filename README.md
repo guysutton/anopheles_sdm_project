@@ -1,6 +1,6 @@
 # Anopheles SDM project
 
-This repository contains all the R code, data, and supporting information to perform the validation of a novel species distribution modelling (SDM) method using occurrence data of *Anopheles* mosquito distributions across Africa from 1898-2016 [Kyalo et al. (2017)](https://wellcomeopenresearch.org/articles/2-57/v1).
+This repository contains all the R code, data, and supporting information to perform the validation of a novel species distribution modelling (SDM) method using occurrence data of *Anopheles* mosquito distributions across Africa from 1898-2016 ([Kyalo et al. 2017](https://wellcomeopenresearch.org/articles/2-57/v1)).
 
 ### References 
 
